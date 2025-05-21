@@ -97,7 +97,7 @@ I submitted my CV to several job portals and internship opportunities.
 ## 📬 Contact
 
 📧 Email: 220030898@mycput.ac.za  
-🔗 GitHub: [yourusername](https://github.com/yourusername)  
+🔗 GitHub: https://github.com/Siwaphiwe220030898  
 
 ---
 
