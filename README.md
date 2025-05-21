@@ -81,7 +81,7 @@ I attended a career counselling session focused on ICT roles in South Africa. We
 
 ### 🧾 Evidence
 
-
+[CV] https://github.com/Siwaphiwe220030898/Digital-Portfolio/blob/main/Siwaphiwe%20Mzaza's%20Resume.pdf.pdf
 
 I submitted my CV to several job portals and internship opportunities.
 
@@ -96,7 +96,7 @@ I submitted my CV to several job portals and internship opportunities.
 
 ## 📬 Contact
 
-📧 Email: yourname@example.com  
+📧 Email: 220030898@mycput.ac.za  
 🔗 GitHub: [yourusername](https://github.com/yourusername)  
 
 ---
