@@ -26,7 +26,7 @@ I attended a career counselling session focused on ICT roles in South Africa. We
 
 **S**ituation: I attended a virtual session provided by the career centre.  
 **T**ask: I had to explore my career options and align them with my skills and interests.  
-**A**ction: I participated actively, asked questions, and took notes.  
+**A**ction: I participated actively and took notes.  
 **R**esult: I discovered that Business Analysis aligns well with both my technical and interpersonal skills.
 
 ---
@@ -57,7 +57,7 @@ I attended a career counselling session focused on ICT roles in South Africa. We
 **S**ituation: I was asked to complete a personality assessment as part of the training.  
 **T**ask: Understand how my traits relate to workplace environments.  
 **A**ction: I completed the 16Personalities (MBTI) test and reviewed my results.  
-**R**esult: My type, INFJ, suggests I thrive in thoughtful, mission-driven roles like project management or UX design.
+**R**esult: My type, ENTJ, suggests I thrive in thoughtful, mission-driven roles like project management or solution architecture.
 
 ---
 
@@ -88,16 +88,15 @@ I submitted my CV to several job portals and internship opportunities.
 ### 💬 Reflection (STAR Technique)
 
 **S**ituation: After finalizing my CV, I needed to submit it to real opportunities.  
-**T**ask: Apply to at least 2 internship/job positions.  
-**A**ction: I submitted via LinkedIn and the company’s website.  
+**T**ask: Apply to at least 5 internship/job positions.  
+**A**ction: I submitted via company’s website.  
 **R**esult: Received acknowledgment emails, and I’m awaiting responses from recruiters.
 
 ---
 
 ## 📬 Contact
 
-📧 Email: 220030898@mycput.ac.za  
-🔗 GitHub: https://github.com/Siwaphiwe220030898  
+📧 Email: 220030898@mycput.ac.za   
 
 ---
 
